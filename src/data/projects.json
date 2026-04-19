@@ -1,17 +1,34 @@
 [
   {
-    "title": "SVGL - A beautiful library with SVG logos",
-    "description": "Biblioteca de logos SVG de las marcas más populares. +10k visitas al mes. +2K svgs descargados. Creado desde cero con Next.js, React y Tailwind CSS.",
-    "link": "https://svgl.vercel.app/",
-    "github": "https://github.com/pheralb/svgl",
+    "title": "Security Scanner",
+    "description": "Herramienta de escaneo de vulnerabilidades en redes locales. Detecta puertos abiertos y servicios expuestos con análisis detallado.",
+    "link": "https://github.com/tu-usuario/security-scanner",
+    "github": "https://github.com/tu-usuario/security-scanner",
     "image": "/projects/svgl.webp",
-    "tags": ["NEXT", "TAILWIND"]
+    "tags": ["PYTHON", "SECURITY", "NETWORKING"]
   },
   {
-    "title": "AdventJS - Retos de programación con JavaScript y TypeScript",
-    "description": "Plataforma gratuita con retos de programación. Más de 1 millón de visitas en un mes. +50K retos completados. Creada desde cero con Next.js, React y Tailwind CSS.",
-    "link": "https://adventjs.dev",
+    "title": "AI Chatbot",
+    "description": "Chatbot con IA para soporte técnico básico. Uso de NLP para entender y responder consultas de usuarios con lenguaje natural.",
+    "link": "https://github.com/tu-usuario/ai-chatbot",
+    "github": "https://github.com/tu-usuario/ai-chatbot",
     "image": "/projects/adventjs.webp",
-    "tags": ["NEXT", "TAILWIND"]
+    "tags": ["PYTHON", "IA", "NLP"]
+  },
+  {
+    "title": "Password Manager",
+    "description": "Gestor de contraseñas cifradas con generación segura. Almacenamiento local encriptado con estándares modernos.",
+    "link": "https://github.com/tu-usuario/password-manager",
+    "github": "https://github.com/tu-usuario/password-manager",
+    "image": "/projects/adventjs.webp",
+    "tags": ["PYTHON", "CRYPTOGRAPHY", "SECURITY"]
+  },
+  {
+    "title": "Portafolio Web",
+    "description": "Sitio web personal con diseño moderno y responsivo. Animaciones fluidas y navegación intuitiva.",
+    "link": "https://github.com/tu-usuario/portafolio",
+    "github": "https://github.com/tu-usuario/portafolio",
+    "image": "/projects/adventjs.webp",
+    "tags": ["HTML", "CSS", "JAVASCRIPT"]
   }
 ]
